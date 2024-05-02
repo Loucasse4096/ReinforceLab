@@ -1,0 +1,1 @@
+<?php echo htmlspecialchars($_GET['message'], ENT_QUOTES, 'UTF-8'); ?>
